@@ -100,15 +100,24 @@ Source:https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worldwide-sales-recor
 
  * Sales volume peaked around 2022
 
-📸 DASHBOARD PREVIEW
+## DASHBOARD PREVIEW
 
-(Add your dashboard screenshots here after uploading images)
+### Overview Dashboard
+![Overview](dashboard_overview.png)
 
-![Dashboard](dashboard_overview.png)
-📁 FILES INCLUDED
+### Analysis Dashboard
+![Analysis](dashboard_analysis.png)
+
+## FILES INCLUDED
 
 bmw_dashboard.pbix
 
 bmw_sales_dataset.xlsx
 
-R
+bmw_sales_cleaned_dataset.xlsx
+
+dashboard_overview
+
+overview_dashboard
+
+
